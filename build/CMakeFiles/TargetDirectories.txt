@@ -1,0 +1,3 @@
+D:/Education/C++/projects/image_processing/v1/build/CMakeFiles/image.dir
+D:/Education/C++/projects/image_processing/v1/build/CMakeFiles/edit_cache.dir
+D:/Education/C++/projects/image_processing/v1/build/CMakeFiles/rebuild_cache.dir
